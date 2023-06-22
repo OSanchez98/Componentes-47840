@@ -1,0 +1,9 @@
+.overlay-text {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: rgb(49, 46, 46);
+    font-size: 40px;
+    font-family: monospace;
+  }
